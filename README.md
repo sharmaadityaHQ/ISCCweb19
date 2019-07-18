@@ -1,6 +1,6 @@
-                                                     
-													 Innerve Summer of code 2019
-													*******************************
+                                                    
+						    Innerve Summer of code 2019
+						   ******************************
 													
 Based on the famous Google summer of code , we at Innerve  brings to you our version of it - The Innerve summer of code. We will 
 provide you with two open-source coding projects during the summer. The program is open for all university students.
@@ -47,4 +47,3 @@ For any queries :
     mail at - csetechinnerve2019@gmail.com    
     join -  https://chat.whatsapp.com/J5nQMzqCv8E5SQJLYvlY4u	
 
-........................................................................................................................................
