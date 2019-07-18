@@ -35,7 +35,7 @@ What we expect :
 A doc file listing down the changes you made.
 Only one commit of final solution per person is allowed.
 
-Time limit: 10 days (18th - 28th July 2019(23:59pm)
+Time limit: 10 days [18th - 28th July 2019(23:59pm)]
 -----------
 
 Where to send solution:
