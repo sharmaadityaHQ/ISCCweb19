@@ -15,8 +15,10 @@ website as interactive as possible.
 #Basic features to be added :
 ----------------------------
           1. Add the following pages : 
-		             Login page, Workshops, Seminars,Tech Events, Informal Events, Sponsors ,Gallery, Competitions , Social Awareness 
-					 Initiative, Our team .
+		             Login page, Workshops, Seminars,Tech Events, Informal Events, Sponsors ,Gallery,
+			     Competitions , Social Awareness initiative, our team.
+					
+					
 
           2.  Add the following features:
 		             Page which generates unique passes for the students.
